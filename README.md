@@ -80,8 +80,8 @@ My professional journey spans across **Azure, AWS** working on solutions involvi
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[dverma-cd]&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[dverma-cd]&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dverma-cd&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dverma-cd&theme=tokyonight" height="150"/>
 </p>
 
 ---
