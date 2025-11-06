@@ -27,47 +27,25 @@ My professional journey spans across **Azure, AWS** working on solutions involvi
 ---
 
 ### 🧰 Tech Stack & Tools
-
-#### ☁️ Cloud Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure" height="40" />
-</p>
-
-#### ⚙️ DevOps & Automation
-<p align="left">
   <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,bash,powershell,python" height="40" />
-</p>
-
-#### 🐳 Containers & Orchestration
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40" />
-</p>
-
-#### 📊 Monitoring & Logging
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" />
+   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40" />
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" />
   <img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Signoz-%230066CC?style=for-the-badge&logoColor=white" height="25" />
 </p>
 
----
-
-### 🧩 Current Focus
-
-💡 Building secure, automated multi-cloud infrastructure pipelines  
-⚙️ Standardizing Terraform modules and reusable workflows  
-📊 Enhancing observability and monitoring frameworks  
-🧠 Exploring MLOps and AI-powered infrastructure insights
 
 ---
 
 ### 📫 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://www.linkedin.com/in/deepakvermacloud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your-email]">
+  <a href="mailto:[deepak.verma@clouddrove.com]">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://clouddrove.com" target="_blank">
@@ -77,14 +55,5 @@ My professional journey spans across **Azure, AWS** working on solutions involvi
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dverma-cd&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dverma-cd&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ⭐ *“Steady delivery. Continuous improvement. That’s the DevOps way.”*  
-— [Deepak Verma], Senior DevOps Engineer @ [CloudDrove](https://clouddrove.com)
+— Deepak Verma, Senior DevOps Engineer @ [CloudDrove](https://clouddrove.com)
