@@ -1,5 +1,9 @@
 <!-- Banner / Hero Section -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00AEEF;">Deepak Verma</span></h1>
+
+
+<img width="2972" height="1168" alt="clouddrove-github-cover" src="https://github.com/user-attachments/assets/d24618e2-1d8c-4fac-97af-d03d27d9366f" />
+
 <h3 align="center">🚀 Senior DevOps Engineer  </h3>
 <p align="center">
   <a href="https://clouddrove.com" target="_blank"><img src="https://img.shields.io/badge/Working%20at-CloudDrove-blue?style=flat-square&logo=azuredevops" /></a>
