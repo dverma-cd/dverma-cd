@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Senior DevOps Engineer  </h3>
 <p align="center">
   <a href="https://clouddrove.com" target="_blank"><img src="https://img.shields.io/badge/Working%20at-CloudDrove-blue?style=flat-square&logo=azuredevops" /></a>
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-green?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Automation-orange?style=flat-square&logo=terraform" />
 </p>
 
@@ -33,8 +33,8 @@ My professional journey spans across **Azure, AWS** working on solutions involvi
 ### 🧰 Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure" height="40" />
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,bash,powershell,python" height="40" />
-   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,terraform,ansible,jenkins,githubactions,bash,powershell,python" height="40" />
+   <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40" />
     <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" />
   <img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Signoz-%230066CC?style=for-the-badge&logoColor=white" height="25" />
