@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a **Senior DevOps Engineer at [CloudDrove](https://clouddrove.com)** with over **6+ years of hands-on experience** in designing, automating, and managing scalable cloud infrastructures.  
+I’m a **Senior DevOps Engineer at [CloudDrove](https://clouddrove.com)** with over **10+ years of hands-on experience** in designing, automating, and managing scalable cloud infrastructures.  
 I love solving real-world problems with **infrastructure as code, observability, and automation-first** mindset.  
 
 My professional journey spans across **Azure, AWS** working on solutions involving:
